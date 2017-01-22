@@ -31,7 +31,7 @@ Intro HTML5 </a>
 <li> <a href="https://www.youtube.com/watch?v=JM_R1R28kLM"> Joyce & Niko</a></li>
 <li> <a href="https://www.youtube.com/watch?v=8kAU3B9Pi_U"> Iwan  </a></li>
 <li> <a href="https://www.youtube.com/watch?v=YXnjy5YlDwk/"> Asta & Humbert </a></li>
-<li> <a href="https://www.youtube.com/watch?v=_fHHI2T4KG8">Thea & Remi</a></li>
+<li> <a href="https://video.search.yahoo.com/video/play;_ylt=A0LEVjpmQYVYSGMAql0PxQt.;_ylu=X3oDMTBsa3ZzMnBvBHNlYwNzYwRjb2xvA2JmMQR2dGlkAw--?p=in+the+jungle+the+lion+sleep+tonight+youtube&tnr=21&vid=f92b1540dfbf975cbc67c8b6570ad7c0&l=162&turl=http%3A%2F%2Fts2.mm.bing.net%2Fth%3Fid%3DOVP.Vcde33f42c9de803dc323b46d06b50ceb%26pid%3D15.1&sigi=12bsm9njd&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_LBmUwi6mEo&sigr=11bfdsidt&tt=b&tit=The+Tokens+-+The+Lion+Sleeps+Tonight&sigt=114bqkdpo&back=https%3A%2F%2Fsearch.yahoo.com%2Fyhs%2Fsearch%3Fp%3Din%2Bthe%2Bjungle%2Bthe%2Blion%2Bsleep%2Btonight%2Byouyube%26type%3Dlvs__webcompa__1_0__ya__ch_WCYID10285__170106__yaff%26hspart%3Dlvs%26hsimp%3Dyhs-awc%26fr%3Dyhs-lvs-awc%26ei%3DUTF-8&sigb=15ssnlm98&hspart=lvs&hsimp=yhs-awc">Thea & Remi</a></li>
 <li> <a href="https://www.youtube.com/watch?v=dHxtYi68qWs">Baltus & Susan</a></li>
 <li> <a href="https://www.youtube.com/watch?v=gQK9k42ongU">Vera & Frank</a></li>
 <li> <a href="https://www.youtube.com/watch?v=S4ZWD_0VRK8">Wilma & Linda</a></li>
