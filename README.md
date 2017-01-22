@@ -46,8 +46,8 @@ Intro HTML5 </a>
 <ul id="navmenu">
 <li> <a href="http://www.sensorex.com/ph-calculator/"> PH</a></li>
 <li><a href="http://www.wolframalpha.com/widget/widgetPopup.jsp?p=v&id=d56e8a800745244232d295d3eae74aae&title=Area%20under%20the%20Curve%20Calculator&theme=blue&i0=x^2-4&i1=-2&i2=2&podSelect=&includepodid=Input&includepodid=VisualRepresentationOfTheIntegral&showAssumptions=1&showWarnings=1">Integralen</a></li> 
-<li> <a href="http://vassarstats.net/tabs.html">Statistiek Calculator</a></li> 
-<li> <a href="http://www.mycalculators.com/ca/loancalcm.html" Calculator aflossing lening </a></li>
+<li> <a href="http://vassarstats.net/tabs.html"> Statistiek Calculator </a></li> 
+<li> <a href="http://www.mycalculators.com/ca/loancalcm.html"> Calculator aflossing lening </a></li>
 </ul>
 </div>
 
@@ -84,4 +84,4 @@ width="220px" alt="Tiger">
 </table><br>
 
 <div id="footer">
-<p> Copyright 2017 <a href="http://www.smtutot.com/html5" target="_blank" >Bonse</a> All rights reseved.</p>
+<p> Copyright 2017 <a href="htt7p://www.smtutot.com/html5" target="_blank" >Bonse</a> All rights reseved.</p>
